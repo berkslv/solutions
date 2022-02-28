@@ -1,7 +1,6 @@
 # Algorithms
 
-Solutions to various algorithmic problems taken from sources such as leetcode
-
+JavaScript solutions to various algorithmic problems from sources such as [Leetcode](https://leetcode.com) and [Project euler](https://projecteuler.net/)
 
 ## Contains
 
