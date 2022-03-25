@@ -33,7 +33,6 @@ JavaScript solutions to various algorithmic problems from sources such as [Leetc
 
 - MIT 6.006
   - [Peak finding 1D](./6006/peakFinding1D.js)
-  - Document distance
   - Insertion sort
   - Merge sort
   - Heap sort
