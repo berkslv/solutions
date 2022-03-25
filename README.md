@@ -33,8 +33,8 @@ JavaScript solutions to various algorithmic problems from sources such as [Leetc
 
 - MIT 6.006
   - [Peak finding 1D](./6006/peakFinding1D.js)
-  - Insertion sort
-  - Merge sort
+  - [Insertion sort](./6006/insertionSort.js)
+  - [Merge sort](./6006/mergeSort.js)
   - Heap sort
   - BST and BST sort
   - AVL and AVL sort
