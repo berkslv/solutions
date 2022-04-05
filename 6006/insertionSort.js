@@ -1,5 +1,3 @@
-
-
 /**
  * Classic insertion sort algorithm. Runs on O(n^2)
  * @param {Array} arr

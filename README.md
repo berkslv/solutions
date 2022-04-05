@@ -1,6 +1,12 @@
 # Algorithms
 
-JavaScript solutions to various algorithmic problems from sources such as [Leetcode](https://leetcode.com) and [Project euler](https://projecteuler.net/). Also contains various problems from [MIT 6.006 - Introduction to algorithms - Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+JavaScript solutions to algorithmic problems collected from various sources:
+- [Leetcode](https://leetcode.com)
+  - [Neetcode](https://neetcode.io)
+- [Project euler](https://projecteuler.net/)
+- [MIT 6.006 - Introduction to algorithms - Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
+
+
 
 ## Contains
 
@@ -18,6 +24,9 @@ JavaScript solutions to various algorithmic problems from sources such as [Leetc
     - Balanced Binary Tree
       - [Source](https://leetcode.com/problems/balanced-binary-tree/)
       - [Solution](./leetcode/isBalanced.js)
+    - Contains Duplicate
+      - [Source](https://leetcode.com/problems/contains-duplicate/)
+      - [Solution](./leetcode/containsDuplicate.js)
   - Medium
     - Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
