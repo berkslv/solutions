@@ -1,6 +1,6 @@
 # Algorithms
 
-JavaScript solutions to algorithmic problems collected from various sources:
+JavaScript solutions to algorithmic problems and data structures collected from various sources:
 - [Leetcode](https://leetcode.com)
   - [Neetcode](https://neetcode.io)
 - [Project euler](https://projecteuler.net/)
@@ -10,8 +10,8 @@ JavaScript solutions to algorithmic problems collected from various sources:
 
 ## Contains
 
-- Leetcode
-  - Easy
+- Leetcode (9)
+  - Easy (6)
     - Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/twoSum.js)
@@ -27,7 +27,10 @@ JavaScript solutions to algorithmic problems collected from various sources:
     - Contains Duplicate
       - [Source](https://leetcode.com/problems/contains-duplicate/)
       - [Solution](./leetcode/containsDuplicate.js)
-  - Medium
+    - Max Profit
+      - [Source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+      - [Solution](./leetcode/maxProfit.js)
+  - Medium (3)
     - Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
       - [Solution](./leetcode/reverse.js)
@@ -40,7 +43,7 @@ JavaScript solutions to algorithmic problems collected from various sources:
 
 <br/>
 
-- MIT 6.006
+- MIT 6.006 (3)
   - [Peak finding 1D](./6006/peakFinding1D.js)
   - [Insertion sort](./6006/insertionSort.js)
   - [Merge sort](./6006/mergeSort.js)
@@ -50,10 +53,24 @@ JavaScript solutions to algorithmic problems collected from various sources:
   - Radix sort
   - Counting sort
 
+<br/>
+
+
+- Data Structures (3)
+  - Stack
+    - [Source](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+    - [Solution](./data-structures/Stack.js)
+  - Queue
+    - [Source](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+    - [Solution](./data-structures/Queue.js)
+  - Linked List
+    - [Source](https://en.wikipedia.org/wiki/Linked_list)
+    - [Solution](./data-structures/LinkedList.js)
+
 
 <br/>
 
-- Project Euler
+- Project Euler (2)
   - Multiples of 3 or 5
     - [Source](https://projecteuler.net/problem=1)
     - [Solution](./euler/sumOfMultiples.js)
