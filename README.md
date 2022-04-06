@@ -8,10 +8,10 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 
 
-## Contains (19)
+## Contains (20)
 
-- Leetcode (11)
-  - Easy (8)
+- Leetcode (12)
+  - Easy (9)
     - Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/twoSum.js)
@@ -36,6 +36,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - Reverse Linked List
       - [Source](https://leetcode.com/problems/reverse-linked-list/)
       - [Solution](./leetcode/reverseList.js)
+    - Invert Binary Tree
+      - [Source](https://leetcode.com/problems/invert-binary-tree/)
+      - [Solution](./leetcode/invertTree.js)
   - Medium (3)
     - Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
