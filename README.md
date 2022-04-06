@@ -8,10 +8,10 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 
 
-## Contains
+## Contains (18)
 
-- Leetcode (9)
-  - Easy (6)
+- Leetcode (10)
+  - Easy (7)
     - Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/twoSum.js)
@@ -30,6 +30,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - Max Profit
       - [Source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
       - [Solution](./leetcode/maxProfit.js)
+    - Binary Search
+      - [Source](https://leetcode.com/problems/binary-search/)
+      - [Solution](./leetcode/search.js)
   - Medium (3)
     - Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
