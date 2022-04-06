@@ -9,11 +9,6 @@
 // Output: [7,0,8]
 // Explanation: 342 + 465 = 807.
 
-function ListNode(val, next) {
-  this.val = val === undefined ? 0 : val;
-  this.next = next === undefined ? null : next;
-}
-
 
 /**
  * Definition for singly-linked list.
@@ -76,5 +71,5 @@ let addTwoNumbers = function (l1, l2) {
 // Memory Usage: 56.2 MB, less than 5.06% of JavaScript online submissions for Add Two Numbers.
 
 module.exports = {
-    addTwoNumbers, ListNode
+    addTwoNumbers
 }
