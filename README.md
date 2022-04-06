@@ -8,9 +8,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 
 
-## Contains (20)
+## Contains (21)
 
-- Leetcode (12)
+- Leetcode (13)
   - Easy (9)
     - Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
@@ -39,7 +39,7 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - Invert Binary Tree
       - [Source](https://leetcode.com/problems/invert-binary-tree/)
       - [Solution](./leetcode/invertTree.js)
-  - Medium (3)
+  - Medium (4)
     - Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
       - [Solution](./leetcode/reverse.js)
@@ -49,6 +49,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - Two Sum II
       - [Source](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
       - [Solution](./leetcode/twoSum2.js)
+    - Group Anagrams
+      - [Source](https://leetcode.com/problems/group-anagrams/)
+      - [Solution](./leetcode/groupAnagrams.js)
 
 <br/>
 
