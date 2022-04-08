@@ -58,6 +58,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 143. Reorder List
       - [Source](https://leetcode.com/problems/reorder-list/)
       - [Solution](./leetcode/reorderList.js)
+    - 739. Daily Temperatures
+      - [Source](https://leetcode.com/problems/daily-temperatures/)
+      - [Solution](./leetcode/dailyTemperatures.js)
 
 <br/>
 
