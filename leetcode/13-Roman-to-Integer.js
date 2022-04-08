@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/roman-to-integer/
-
+//
 // Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 //
 // Symbol       Value
@@ -99,52 +99,7 @@ var romanToInt = function (s) {
 // Runtime: 148 ms, faster than 80.16% of JavaScript online submissions for Roman to Integer.
 // Memory Usage: 47.5 MB, less than 18.15% of JavaScript online submissions for Roman to Integer.
 
-var test = function () {
-    let data = [
-      {
-        val: "III",
-        exp: 3,
-      },
-      {
-        val: "VI",
-        exp: 6,
-      },
-      {
-        val: "XX",
-        exp: 20,
-      },
-      {
-        val: "XXI",
-        exp: 21,
-      },
-      {
-        val: "XXVIII",
-        exp: 28,
-      },
-      {
-        val: "LVIII",
-        exp: 58,
-      },
-      {
-        val: "MCMXCIV",
-        exp: 1994,
-      },
-    ];
-  
-    for (let i = 0; i < data.length; i++) {
-      const val = data[i].val;
-      const exp = data[i].exp;
-  
-      if (exp === romanToInt(val)) {
-          console.log("True for ", val);
-      } else {
-          console.log("False for ", val);
-      }
-      
-    }
-  };
 
 module.exports = {
   romanToInt,
-  test,
 };

@@ -15,6 +15,10 @@
 // Input: head = []
 // Output: []
 
+function ListNode(val, next) {
+    this.val = (val === undefined ? 0 : val)
+    this.next = (next === undefined ? null : next)
+}
 
 /**
  * Definition for singly-linked list.
@@ -48,5 +52,6 @@ var reverseList = function (head) {
 // Memory Usage: 44.9 MB, less than 6.95% of JavaScript online submissions for Reverse Linked List.
 
 module.exports = {
-    reverseList
+    reverseList,
+    ListNode
 }

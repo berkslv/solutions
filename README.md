@@ -14,53 +14,56 @@ JavaScript solutions to algorithmic problems and data structures collected from 
   - Easy (10)
     - 1 Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
-      - [Solution](./leetcode/twoSum.js)
+      - [Solution](./leetcode/1-Two-Sum.js)
     - 13 Roman to Integer
       - [Source](https://leetcode.com/problems/roman-to-integer/)
-      - [Solution](./leetcode/romanToInt.js)
+      - [Solution](./leetcode/13-Roman-to-Integer.js)
     - 9 Palindrome Number
       - [Source](https://leetcode.com/problems/palindrome-number/)
-      - [Solution](./leetcode/isPalindrome.js)
+      - [Solution](./leetcode/9-Palindrome-Number.js)
     - 110 Balanced Binary Tree
       - [Source](https://leetcode.com/problems/balanced-binary-tree/)
-      - [Solution](./leetcode/isBalanced.js)
+      - [Solution](./leetcode/110-Balanced-Binary-Tree.js)
     - 217 Contains Duplicate
       - [Source](https://leetcode.com/problems/contains-duplicate/)
-      - [Solution](./leetcode/containsDuplicate.js)
+      - [Solution](./leetcode/217-Contains-Duplicate.js)
     - 121 Max Profit
       - [Source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-      - [Solution](./leetcode/maxProfit.js)
+      - [Solution](./leetcode/121-Max-Profit.js)
     - 704 Binary Search
       - [Source](https://leetcode.com/problems/binary-search/)
-      - [Solution](./leetcode/search.js)
+      - [Solution](./leetcode/704-Binary-Search.js)
     - 206 Reverse Linked List
       - [Source](https://leetcode.com/problems/reverse-linked-list/)
-      - [Solution](./leetcode/reverseList.js)
+      - [Solution](./leetcode/206-Reverse-Linked-List.js)
     - 226 Invert Binary Tree
       - [Source](https://leetcode.com/problems/invert-binary-tree/)
-      - [Solution](./leetcode/invertTree.js)
+      - [Solution](./leetcode/226-Invert-Binary-Tree.js)
     - 155 Min Stack
       - [Source](https://leetcode.com/problems/min-stack/submissions/)
-      - [Solution](./leetcode/MinStack.js)
+      - [Solution](./leetcode/155-Min-Stack.js)
+    - 20 Valid Parentheses
+      - [Source](https://leetcode.com/problems/valid-parentheses/)
+      - [Solution](./leetcode/20-Valid-Parentheses.js)
   - Medium (5)
     - 7 Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
-      - [Solution](./leetcode/reverse.js)
+      - [Solution](./leetcode/7-Reverse-Integer.js)
     - 2 Add Two Numbers
       - [Source](https://leetcode.com/problems/add-two-numbers/)
-      - [Solution](./leetcode/addTwoNumbers.js)
+      - [Solution](./leetcode/2-Add-Two-Numbers.js)
     - 167 Two Sum II
       - [Source](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-      - [Solution](./leetcode/twoSum2.js)
+      - [Solution](./leetcode/167-Two-Sum-II.js)
     - 49 Group Anagrams
       - [Source](https://leetcode.com/problems/group-anagrams/)
-      - [Solution](./leetcode/groupAnagrams.js)
+      - [Solution](./leetcode/49-Group-Anagrams.js)
     - 143 Reorder List
       - [Source](https://leetcode.com/problems/reorder-list/)
-      - [Solution](./leetcode/reorderList.js)
+      - [Solution](./leetcode/143-Reorder-List.js)
     - 739 Daily Temperatures
       - [Source](https://leetcode.com/problems/daily-temperatures/)
-      - [Solution](./leetcode/dailyTemperatures.js)
+      - [Solution](./leetcode/739-Daily-Temperatures.js)
 
 <br/>
 
