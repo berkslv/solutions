@@ -64,5 +64,4 @@ var reorderList = function (head) {
 
 module.exports = {
     reorderList
-    , ListNode
 }
