@@ -23,15 +23,15 @@ var dailyTemperatures = function (temperatures) {
 
     let result = [];
 
-    for (let i = 0; i < temperatures.length ; i++) {
-        for (let j = i; j < temperatures.length ; j++) {
+    for (let i = 0; i < temperatures.length; i++) {
+        for (let j = i; j < temperatures.length; j++) {
 
             if (temperatures[i] < temperatures[j]) {
                 result.push(j - i);
                 break;
-            } 
-            
-            if (j === temperatures.length -1) {
+            }
+
+            if (j === temperatures.length - 1) {
                 result.push(0);
             }
         }
@@ -40,7 +40,7 @@ var dailyTemperatures = function (temperatures) {
     return result;
 };
 
-
+// O(n^2) solution with two pointer
 // Runtime: 1907 ms, faster than 15.41% of JavaScript online submissions for Daily Temperatures.
 // Memory Usage: 66.1 MB, less than 29.88% of JavaScript online submissions for Daily Temperatures.
 

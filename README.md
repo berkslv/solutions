@@ -12,7 +12,7 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 - Leetcode (15)
   - Easy (10)
-    - 1. Two Sum
+    - \1.\ Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/twoSum.js)
     - 13. Roman to Integer
