@@ -43,10 +43,11 @@ function findHeight(node) {
     return 1 + Math.max(this.findHeight(node.left), this.findHeight(node.right));
 }
 
+// Runtime: 78 ms, faster than 90.43% of JavaScript online submissions for Balanced Binary Tree.
+// Memory Usage: 47.1 MB, less than 32.41% of JavaScript online submissions for Balanced Binary Tree.
+
 
 module.exports = {
     isBalanced
 }
 
-// Runtime: 78 ms, faster than 90.43% of JavaScript online submissions for Balanced Binary Tree.
-// Memory Usage: 47.1 MB, less than 32.41% of JavaScript online submissions for Balanced Binary Tree.
