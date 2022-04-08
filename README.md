@@ -12,53 +12,53 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 - Leetcode (15)
   - Easy (10)
-    - \1.\ Two Sum
+    - 1 Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/twoSum.js)
-    - 13. Roman to Integer
+    - 13 Roman to Integer
       - [Source](https://leetcode.com/problems/roman-to-integer/)
       - [Solution](./leetcode/romanToInt.js)
-    - 9. Palindrome Number
+    - 9 Palindrome Number
       - [Source](https://leetcode.com/problems/palindrome-number/)
       - [Solution](./leetcode/isPalindrome.js)
-    - 110. Balanced Binary Tree
+    - 110 Balanced Binary Tree
       - [Source](https://leetcode.com/problems/balanced-binary-tree/)
       - [Solution](./leetcode/isBalanced.js)
-    - 217. Contains Duplicate
+    - 217 Contains Duplicate
       - [Source](https://leetcode.com/problems/contains-duplicate/)
       - [Solution](./leetcode/containsDuplicate.js)
-    - 121. Max Profit
+    - 121 Max Profit
       - [Source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
       - [Solution](./leetcode/maxProfit.js)
-    - 704. Binary Search
+    - 704 Binary Search
       - [Source](https://leetcode.com/problems/binary-search/)
       - [Solution](./leetcode/search.js)
-    - 206. Reverse Linked List
+    - 206 Reverse Linked List
       - [Source](https://leetcode.com/problems/reverse-linked-list/)
       - [Solution](./leetcode/reverseList.js)
-    - 226. Invert Binary Tree
+    - 226 Invert Binary Tree
       - [Source](https://leetcode.com/problems/invert-binary-tree/)
       - [Solution](./leetcode/invertTree.js)
-    - 155. Min Stack
+    - 155 Min Stack
       - [Source](https://leetcode.com/problems/min-stack/submissions/)
       - [Solution](./leetcode/MinStack.js)
   - Medium (5)
-    - 7. Reverse Integer
+    - 7 Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
       - [Solution](./leetcode/reverse.js)
-    - 2. Add Two Numbers
+    - 2 Add Two Numbers
       - [Source](https://leetcode.com/problems/add-two-numbers/)
       - [Solution](./leetcode/addTwoNumbers.js)
-    - 167. Two Sum II
+    - 167 Two Sum II
       - [Source](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
       - [Solution](./leetcode/twoSum2.js)
-    - 49. Group Anagrams
+    - 49 Group Anagrams
       - [Source](https://leetcode.com/problems/group-anagrams/)
       - [Solution](./leetcode/groupAnagrams.js)
-    - 143. Reorder List
+    - 143 Reorder List
       - [Source](https://leetcode.com/problems/reorder-list/)
       - [Solution](./leetcode/reorderList.js)
-    - 739. Daily Temperatures
+    - 739 Daily Temperatures
       - [Source](https://leetcode.com/problems/daily-temperatures/)
       - [Solution](./leetcode/dailyTemperatures.js)
 
