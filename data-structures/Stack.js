@@ -1,25 +1,60 @@
 // Last in First out
 class Stack {
-  array = [];
-  top = 0;
+  constructor() {
+    this.array = [];
+    this.topIndex = -1;
+  }
 
-  isEmpty(stack) {
-    if (stack.top === 0) {
-      return true;
+  /**
+   * @param {number} val
+   * @return {void}
+   */
+  push(val) {
+    this.array.push(val);
+    this.topIndex++;
+  }
+
+  /**
+   * @return {void}
+   */
+  pop() {
+    this.array.pop();
+    if (this.topIndex > -1) {
+      this.topIndex--;
     }
-    return false;
   }
 
-  insert(stack, x) {
-    stack.array.push(x);
+  /**
+   * @return {number}
+   */
+  top() {
+    console.log(this.topIndex);
+    return this.array[this.topIndex];
   }
 
-  delete(stack) {
-    stack.array.pop();
+  /**
+   * @return {number}
+   */
+  getMin() {
+
+    let lowest = this.array[0];
+
+    for (let i = 0; i < this.array.length; i++) {
+      const element = this.array[i];
+
+      if (lowest > element) {
+        lowest = element;
+      }
+    }
+
+    return lowest;
   }
 
-  print(stack) {
-    console.log(stack.array);
+  /**
+   * @return {void}
+   */
+  print() {
+    console.log(this.array);
   }
 }
 

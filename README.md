@@ -45,6 +45,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 20 Valid Parentheses
       - [Source](https://leetcode.com/problems/valid-parentheses/)
       - [Solution](./leetcode/20-Valid-Parentheses.js)
+    - 21 Merge Two Sorted Lists
+      - [Source](https://leetcode.com/problems/merge-two-sorted-lists/)
+      - [Solution](./leetcode/21-Merge-Two-Sorted-Lists.js)
   - Medium (5)
     - 7 Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
