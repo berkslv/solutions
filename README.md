@@ -8,10 +8,10 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 
 
-## Contains (23)
+## Contains (26)
 
-- Leetcode (15)
-  - Easy (10)
+- Leetcode (18)
+  - Easy (12)
     - 1 Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/1-Two-Sum.js)
@@ -48,7 +48,10 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 21 Merge Two Sorted Lists
       - [Source](https://leetcode.com/problems/merge-two-sorted-lists/)
       - [Solution](./leetcode/21-Merge-Two-Sorted-Lists.js)
-  - Medium (5)
+    - 237 Delete Node in a Linked List
+      - [Source](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+      - [Solution](./leetcode/237-Delete-Node-in-a-Linked-List.js)
+  - Medium (6)
     - 7 Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
       - [Solution](./leetcode/7-Reverse-Integer.js)
@@ -67,6 +70,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 739 Daily Temperatures
       - [Source](https://leetcode.com/problems/daily-temperatures/)
       - [Solution](./leetcode/739-Daily-Temperatures.js)
+    - 19 Remove Nth Node From End of List
+      - [Source](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
+      - [Solution](./leetcode/19-Remove-Nth-Node-From-End-of-List.js)
 
 <br/>
 
