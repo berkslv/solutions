@@ -10,6 +10,10 @@
 // Explanation: 342 + 465 = 807.
 
 
+function ListNode(val, next) {
+    this.val = (val === undefined ? 0 : val)
+    this.next = (next === undefined ? null : next)
+}
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
@@ -24,45 +28,23 @@
  */
 let addTwoNumbers = function (l1, l2) {
 
-    let s1 = [];
-    let newl1 = l1;
+    let result = null;
 
-    while (newl1 !== null) {
-        s1.unshift(newl1.val.toString());
-        newl1 = newl1.next;
+    while (l1 || l2) {
+
+        let addition = l1.val + l2.val;
+        
+        if (addition >= 10) {
+            addition = addition - 10;
+            l1.next.val++;
+        }
+
+        result = new ListNode(addition, result);
+
+        l1 = l1.next;
+        l2 = l2.next;
     }
 
-    var n1 = "";
-    for (let i = 0; i < s1.length; i++) {
-        const element = s1[i];
-        n1 += element;
-    }
-
-
-    let s2 = [];
-    let newl2 = l2;
-
-    while (newl2 !== null) {
-        s2.unshift(newl2.val.toString());
-        newl2 = newl2.next;
-    }
-
-    var n2 = "";
-    for (let i = 0; i < s2.length; i++) {
-        const element = s2[i];
-        n2 += element;
-    }
-    
-
-    let numberAddition = BigInt(n1) + BigInt(n2);
-    let addition = Array.from((numberAddition).toLocaleString('fullwide', {useGrouping:false}), Number);
-    
-    let result;
-
-    for (let i = 0; i < addition.length; i++) {
-        const element = addition[i];
-        result = new ListNode(element, result);
-    }
 
     return result
 };
@@ -72,4 +54,5 @@ let addTwoNumbers = function (l1, l2) {
 
 module.exports = {
     addTwoNumbers
+    , ListNode
 }

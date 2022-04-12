@@ -73,6 +73,9 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 19 Remove Nth Node From End of List
       - [Source](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
       - [Solution](./leetcode/19-Remove-Nth-Node-From-End-of-List.js)
+    - 150 Evaluate Reverse Polish Notation
+      - [Source](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+      - [Solution](./leetcode/150-Evaluate-Reverse-Polish-Notation.js)
 
 <br/>
 
