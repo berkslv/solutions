@@ -76,6 +76,10 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 150 Evaluate Reverse Polish Notation
       - [Source](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
       - [Solution](./leetcode/150-Evaluate-Reverse-Polish-Notation.js)
+    - 74 Search a 2D Matrix
+      - [Source](https://leetcode.com/problems/search-a-2d-matrix/)
+      - [Solution](./leetcode/74-Search-a-2D-Matrix.js)
+
 
 <br/>
 
