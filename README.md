@@ -1,94 +1,45 @@
 # Algorithms
 
-JavaScript solutions to algorithmic problems and data structures collected from Leetcode:
-- [Leetcode](https://leetcode.com)
-  - [Neetcode](https://neetcode.io)
+Solutions to algorithms and data structures problems on Leetcode with Go
 
+Implemented before with js, the codebase is imported into Go.
 
-
-## Contains (32)
+## Contains (33)
 
 - Leetcode (24)
   - Easy (13)
-    - 1 Two Sum
-      - [Source](https://leetcode.com/problems/two-sum/)
-      - [Solution](./leetcode/1-Two-Sum.js)
-    - 13 Roman to Integer
-      - [Source](https://leetcode.com/problems/roman-to-integer/)
-      - [Solution](./leetcode/13-Roman-to-Integer.js)
-    - 9 Palindrome Number
-      - [Source](https://leetcode.com/problems/palindrome-number/)
-      - [Solution](./leetcode/9-Palindrome-Number.js)
-    - 110 Balanced Binary Tree
-      - [Source](https://leetcode.com/problems/balanced-binary-tree/)
-      - [Solution](./leetcode/110-Balanced-Binary-Tree.js)
-    - 217 Contains Duplicate
-      - [Source](https://leetcode.com/problems/contains-duplicate/)
-      - [Solution](./leetcode/217-Contains-Duplicate.js)
-    - 121 Max Profit
-      - [Source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-      - [Solution](./leetcode/121-Max-Profit.js)
-    - 704 Binary Search
-      - [Source](https://leetcode.com/problems/binary-search/)
-      - [Solution](./leetcode/704-Binary-Search.js)
-    - 206 Reverse Linked List
-      - [Source](https://leetcode.com/problems/reverse-linked-list/)
-      - [Solution](./leetcode/206-Reverse-Linked-List.js)
-    - 226 Invert Binary Tree
-      - [Source](https://leetcode.com/problems/invert-binary-tree/)
-      - [Solution](./leetcode/226-Invert-Binary-Tree.js)
-    - 155 Min Stack
-      - [Source](https://leetcode.com/problems/min-stack/submissions/)
-      - [Solution](./leetcode/155-Min-Stack.js)
-    - 20 Valid Parentheses
-      - [Source](https://leetcode.com/problems/valid-parentheses/)
-      - [Solution](./leetcode/20-Valid-Parentheses.js)
-    - 21 Merge Two Sorted Lists
-      - [Source](https://leetcode.com/problems/merge-two-sorted-lists/)
-      - [Solution](./leetcode/21-Merge-Two-Sorted-Lists.js)
-    - 237 Delete Node in a Linked List
-      - [Source](https://leetcode.com/problems/delete-node-in-a-linked-list/)
-      - [Solution](./leetcode/237-Delete-Node-in-a-Linked-List.js)
+    - [1 Two Sum](./leetcode/1-Two-Sum)
+      - 67 ms, faster than 6.70%
+      - 3.5 MB, less than 94.17%
+    - [13 Roman to Integer](./leetcode/13-Roman-to-Integer)
+      - 15 ms, faster than 38.62%
+      - 2.9 MB, less than 81.84%
+    - [9 Palindrome Number](./leetcode/9-Palindrome-Number)
+      - 24 ms, faster than 64.26%
+      - 4.7 MB, less than 48.95%
+    - [110 Balanced Binary Tree](./leetcode/110-Balanced-Binary-Tree)
+    - [217 Contains Duplicate](./leetcode/217-Contains-Duplicate)
+    - [121 Max Profit](./leetcode/121-Max-Profit)
+    - [704 Binary Search](./leetcode/704-Binary-Search)
+    - [206 Reverse Linked List](./leetcode/206-Reverse-Linked-List)
+    - [226 Invert Binary Tree](./leetcode/226-Invert-Binary-Tree)
+    - [155 Min Stack](./leetcode/155-Min-Stack)
+    - [20 Valid Parentheses](./leetcode/20-Valid-Parentheses)
+    - [21 Merge Two Sorted Lists](./leetcode/21-Merge-Two-Sorted-Lists)
+    - [237 Delete Node in a Linked List](./leetcode/237-Delete-Node-in-a-Linked-List)
   - Medium (9)
-    - 7 Reverse Integer
-      - [Source](https://leetcode.com/problems/reverse-integer/)
-      - [Solution](./leetcode/7-Reverse-Integer.js)
-    - 2 Add Two Numbers
-      - [Source](https://leetcode.com/problems/add-two-numbers/)
-      - [Solution](./leetcode/2-Add-Two-Numbers.js)
-    - 167 Two Sum II
-      - [Source](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-      - [Solution](./leetcode/167-Two-Sum-II.js)
-    - 49 Group Anagrams
-      - [Source](https://leetcode.com/problems/group-anagrams/)
-      - [Solution](./leetcode/49-Group-Anagrams.js)
-    - 143 Reorder List
-      - [Source](https://leetcode.com/problems/reorder-list/)
-      - [Solution](./leetcode/143-Reorder-List.js)
-    - 739 Daily Temperatures
-      - [Source](https://leetcode.com/problems/daily-temperatures/)
-      - [Solution](./leetcode/739-Daily-Temperatures.js)
-    - 19 Remove Nth Node From End of List
-      - [Source](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)
-      - [Solution](./leetcode/19-Remove-Nth-Node-From-End-of-List.js)
-    - 150 Evaluate Reverse Polish Notation
-      - [Source](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-      - [Solution](./leetcode/150-Evaluate-Reverse-Polish-Notation.js)
-    - 74 Search a 2D Matrix
-      - [Source](https://leetcode.com/problems/search-a-2d-matrix/)
-      - [Solution](./leetcode/74-Search-a-2D-Matrix.js)
+    - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
+      - 0 ms, faster than 100.00%
+      - 2.1 MB, less than 86.12%
+    - [167 Two Sum II](./leetcode/167-Two-Sum-II)
+    - [49 Group Anagrams](./leetcode/49-Group-Anagrams)
+    - [143 Reorder List](./leetcode/143-Reorder-List)
+    - [739 Daily Temperatures](./leetcode/739-Daily-Temperatures)
+    - [19 Remove Nth Node From End of List](./leetcode/19-Remove-Nth-Node-From-End-of-List)
+      - 0 ms, faster than 100.00%
+      - 2.1 MB, less than 83.33%
+    - [150 Evaluate Reverse Polish Notation](./leetcode/150-Evaluate-Reverse-Polish-Notation)
+    - [74 Search a 2D Matrix](./leetcode/74-Search-a-2D-Matrix)
 
 
-<br/>
 
-
-- Data Structures (3)
-  - Stack
-    - [Source](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-    - [Solution](./data-structures/Stack.js)
-  - Queue
-    - [Source](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
-    - [Solution](./data-structures/Queue.js)
-  - Linked List
-    - [Source](https://en.wikipedia.org/wiki/Linked_list)
-    - [Solution](./data-structures/LinkedList.js)
