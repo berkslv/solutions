@@ -1,17 +1,15 @@
 # Algorithms
 
-JavaScript solutions to algorithmic problems and data structures collected from various sources:
+JavaScript solutions to algorithmic problems and data structures collected from Leetcode:
 - [Leetcode](https://leetcode.com)
   - [Neetcode](https://neetcode.io)
-- [Project euler](https://projecteuler.net/)
-- [MIT 6.006 - Introduction to algorithms - Fall 2011](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm)
 
 
 
-## Contains (26)
+## Contains (32)
 
-- Leetcode (18)
-  - Easy (12)
+- Leetcode (24)
+  - Easy (13)
     - 1 Two Sum
       - [Source](https://leetcode.com/problems/two-sum/)
       - [Solution](./leetcode/1-Two-Sum.js)
@@ -51,7 +49,7 @@ JavaScript solutions to algorithmic problems and data structures collected from 
     - 237 Delete Node in a Linked List
       - [Source](https://leetcode.com/problems/delete-node-in-a-linked-list/)
       - [Solution](./leetcode/237-Delete-Node-in-a-Linked-List.js)
-  - Medium (6)
+  - Medium (9)
     - 7 Reverse Integer
       - [Source](https://leetcode.com/problems/reverse-integer/)
       - [Solution](./leetcode/7-Reverse-Integer.js)
@@ -83,18 +81,6 @@ JavaScript solutions to algorithmic problems and data structures collected from 
 
 <br/>
 
-- MIT 6.006 (3)
-  - [Peak finding 1D](./6006/peakFinding1D.js)
-  - [Insertion sort](./6006/insertionSort.js)
-  - [Merge sort](./6006/mergeSort.js)
-  - Heap sort
-  - BST and BST sort
-  - AVL and AVL sort
-  - Radix sort
-  - Counting sort
-
-<br/>
-
 
 - Data Structures (3)
   - Stack
@@ -106,14 +92,3 @@ JavaScript solutions to algorithmic problems and data structures collected from 
   - Linked List
     - [Source](https://en.wikipedia.org/wiki/Linked_list)
     - [Solution](./data-structures/LinkedList.js)
-
-
-<br/>
-
-- Project Euler (2)
-  - Multiples of 3 or 5
-    - [Source](https://projecteuler.net/problem=1)
-    - [Solution](./euler/sumOfMultiples.js)
-  - Even Fibonacci numbers
-    - [Source](https://projecteuler.net/problem=2)
-    - [Solution](./euler/fibonacciEvenSum.js)
