@@ -1,5 +1,6 @@
-Source: https://leetcode.com/problems/binary-search/
-
+- Source: https://leetcode.com/problems/binary-search/
+- Runtime: 38 ms, faster than 63.34% of Go online submissions for Binary Search.
+- Memory Usage: 6.7 MB, less than 68.88% of Go online submissions for Binary Search.
 ---
 
 # 704. Binary Search
@@ -18,6 +19,7 @@ Input: nums = [-1,0,3,5,9,12], target = 9
 Output: 4
 Explanation: 9 exists in nums and its index is 4
 ```
+
 
 ### Example 2:
 

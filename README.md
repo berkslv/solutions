@@ -18,6 +18,7 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [20 Valid Parentheses](./leetcode/20-Valid-Parentheses)
     - [21 Merge Two Sorted Lists](./leetcode/21-Merge-Two-Sorted-Lists)
     - [237 Delete Node in a Linked List](./leetcode/237-Delete-Node-in-a-Linked-List)
+    - [125 Valid Palindrome](./leetcode/125-Valid-Palindrome)
   - Medium (8)
     - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
     - [167 Two Sum II](./leetcode/167-Two-Sum-II)
