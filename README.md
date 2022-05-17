@@ -3,8 +3,8 @@
 Solutions to algorithms and data structures problems on Leetcode with Go
 
 
-- Leetcode (21)
-  - Easy (13)
+- Leetcode (23)
+  - Easy (15)
     - [1 Two Sum](./leetcode/1-Two-Sum)
     - [13 Roman to Integer](./leetcode/13-Roman-to-Integer)
     - [9 Palindrome Number](./leetcode/9-Palindrome-Number)
@@ -19,6 +19,7 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [21 Merge Two Sorted Lists](./leetcode/21-Merge-Two-Sorted-Lists)
     - [237 Delete Node in a Linked List](./leetcode/237-Delete-Node-in-a-Linked-List)
     - [125 Valid Palindrome](./leetcode/125-Valid-Palindrome)
+    - [104. Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/)
   - Medium (8)
     - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
     - [167 Two Sum II](./leetcode/167-Two-Sum-II)
