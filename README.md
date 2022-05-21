@@ -3,8 +3,8 @@
 Solutions to algorithms and data structures problems on Leetcode with Go
 
 
-- Leetcode (23)
-  - Easy (15)
+- Leetcode (26)
+  - Easy (16)
     - [1 Two Sum](./leetcode/1-Two-Sum)
     - [13 Roman to Integer](./leetcode/13-Roman-to-Integer)
     - [9 Palindrome Number](./leetcode/9-Palindrome-Number)
@@ -21,7 +21,7 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [125 Valid Palindrome](./leetcode/125-Valid-Palindrome)
     - [104 Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/)
     - [242 Valid Anagram](./leetcode/242-Valid-Anagram/)
-  - Medium (8)
+  - Medium (10)
     - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
     - [167 Two Sum II](./leetcode/167-Two-Sum-II)
     - [49 Group Anagrams](./leetcode/49-Group-Anagrams)
@@ -30,6 +30,8 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [19 Remove Nth Node From End of List](./leetcode/19-Remove-Nth-Node-From-End-of-List)
     - [150 Evaluate Reverse Polish Notation](./leetcode/150-Evaluate-Reverse-Polish-Notation)
     - [74 Search a 2D Matrix](./leetcode/74-Search-a-2D-Matrix)
+    - [2 Add Two Numbers](./leetcode/2-Add-Two-Numbers/)
+    - [347 Top K Frequent Elements](./leetcode/347-Top-K-Frequent-Elements/)
 
 
 
