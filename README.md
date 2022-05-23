@@ -24,6 +24,7 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [100 Same Tree](./leetcode/100-Same-Tree/)
     - [94 Binary Tree Inorder Traversal](./leetcode/94-Binary-Tree-Inorder-Traversal/)
     - [101 Symmetric Tree](./leetcode/101-Symmetric-Tree/)
+    - [112 Path Sum](./leetcode/112-Path-Sum/)
   - Medium (10)
     - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
     - [167 Two Sum II](./leetcode/167-Two-Sum-II)
