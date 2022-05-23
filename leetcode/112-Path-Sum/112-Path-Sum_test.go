@@ -14,7 +14,7 @@ type TestCase struct {
 }
 
 var TestCases = []TestCase{
-	// {s.NewTreeNode(5, s.NewTreeNode(4, s.NewTreeNode(11, s.NewTreeNode(7, nil, nil), s.NewTreeNode(2, nil, nil)), nil), s.NewTreeNode(8, s.NewTreeNode(13, nil, nil), s.NewTreeNode(4, nil, s.NewTreeNode(1, nil, nil)))), 22, true},
+	{s.NewTreeNode(5, s.NewTreeNode(4, s.NewTreeNode(11, s.NewTreeNode(7, nil, nil), s.NewTreeNode(2, nil, nil)), nil), s.NewTreeNode(8, s.NewTreeNode(13, nil, nil), s.NewTreeNode(4, nil, s.NewTreeNode(1, nil, nil)))), 22, true},
 	{s.NewTreeNode(1, s.NewTreeNode(4, nil, nil), nil), 1, false},
 }
 

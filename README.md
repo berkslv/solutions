@@ -3,8 +3,8 @@
 Solutions to algorithms and data structures problems on Leetcode with Go
 
 
-- Leetcode (27)
-  - Easy (17)
+- Leetcode (31)
+  - Easy (21)
     - [1 Two Sum](./leetcode/1-Two-Sum)
     - [13 Roman to Integer](./leetcode/13-Roman-to-Integer)
     - [9 Palindrome Number](./leetcode/9-Palindrome-Number)
@@ -25,6 +25,7 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [94 Binary Tree Inorder Traversal](./leetcode/94-Binary-Tree-Inorder-Traversal/)
     - [101 Symmetric Tree](./leetcode/101-Symmetric-Tree/)
     - [112 Path Sum](./leetcode/112-Path-Sum/)
+    - [257 Binary Tree Paths](./leetcode/257-Binary-Tree-Paths/)
   - Medium (10)
     - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
     - [167 Two Sum II](./leetcode/167-Two-Sum-II)
