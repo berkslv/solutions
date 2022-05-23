@@ -22,6 +22,7 @@ Solutions to algorithms and data structures problems on Leetcode with Go
     - [104 Maximum Depth of Binary Tree](./leetcode/104-Maximum-Depth-of-Binary-Tree/)
     - [242 Valid Anagram](./leetcode/242-Valid-Anagram/)
     - [100 Same Tree](./leetcode/100-Same-Tree/)
+    - [94 Binary Tree Inorder Traversal](./leetcode/94-Binary-Tree-Inorder-Traversal/)
   - Medium (10)
     - [7 Reverse Integer](./leetcode/7-Reverse-Integer)
     - [167 Two Sum II](./leetcode/167-Two-Sum-II)
