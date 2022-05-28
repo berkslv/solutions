@@ -3,7 +3,7 @@ package algorithms
 import (
 	"fmt"
 
-	"github.com/berkslv/leetcode/structures"
+	"github.com/berkslv/solutions/structures"
 )
 
 type ListNode = structures.ListNode

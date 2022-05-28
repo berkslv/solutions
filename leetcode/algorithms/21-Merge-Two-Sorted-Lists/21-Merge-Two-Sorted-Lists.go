@@ -6,7 +6,7 @@
 package algorithms
 
 import (
-	s "github.com/berkslv/leetcode/structures"
+	s "github.com/berkslv/solutions/structures"
 )
 
 type ListNode = s.ListNode
