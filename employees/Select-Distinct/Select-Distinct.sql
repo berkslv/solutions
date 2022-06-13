@@ -1,0 +1,1 @@
+select distinct * from employees limit 10;
