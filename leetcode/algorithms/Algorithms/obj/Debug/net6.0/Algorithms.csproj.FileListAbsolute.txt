@@ -1,0 +1,15 @@
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/bin/Debug/net6.0/Algorithms.deps.json
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/bin/Debug/net6.0/Algorithms.dll
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/bin/Debug/net6.0/ref/Algorithms.dll
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/bin/Debug/net6.0/Algorithms.pdb
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.csproj.AssemblyReference.cache
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfoInputs.cache
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.AssemblyInfo.cs
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.csproj.CoreCompileInputs.cache
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.dll
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/ref/Algorithms.dll
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.pdb
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/bin/Debug/net6.0/Structures.dll
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/bin/Debug/net6.0/Structures.pdb
+/Users/berkslv/Documents/project/solutions/leetcode/Algorithms/obj/Debug/net6.0/Algorithms.csproj.CopyComplete

@@ -1,1 +1,0 @@
-INSERT INTO employees () VALUES ('1954-05-01','Berk','Selvi','M','1989-09-12')

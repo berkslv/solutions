@@ -1,0 +1,1 @@
+This directory contains solutions to various HackerRank problems.
